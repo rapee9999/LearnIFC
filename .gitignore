@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+*.ifc
+ifc-data
+output.ipynb
