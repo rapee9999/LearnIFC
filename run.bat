@@ -1,1 +1,0 @@
-papermill ifc-bbox.ipynb -p filePath ifc-data/sample.ifc output.ipynb
