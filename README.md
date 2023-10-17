@@ -13,7 +13,7 @@ I use Python 3.10.10 with packages listed in [requirements.txt](requirements.txt
 
 1. Install Python.
 2. Clone this repo or download requirement.txt into your local directory.<br>
-`git clone https://github.com/rapee9999/learnIFC.git`
+`git clone https://github.com/rapee9999/LearnIFC.git`
 2. Install dependencies (packages) by running following command:<br>
 `pip install -r requirements.txt`
 
