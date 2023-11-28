@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 __pycache__
 *.ifc
+*dxf
 ifc-data
+dxf-data
 output.ipynb

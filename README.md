@@ -1,10 +1,11 @@
 # Learn IFC
 
-This repo demonstrates how to access, process and shows use cases of IFC data format for CAD. I use Python and ifcopenshell (a Python package).
+This repo demonstrates how to access, process and shows use cases of IFC and DXF data format for CAD. I use Python, ifcopenshell and ezdxf.
 
 
 ## Outline
 - [learn-ifc.ipynb](learn-ifc.ipynb) Python scripts to access and use IFC.
+- [learn-dxf.ipynb](learn-dxf.ipynb) Python scripts to access and build DXF.
 - [requirements.txt](requirements.txt) List of required Python package.
 
 
@@ -31,3 +32,6 @@ I use Python 3.10.10 with packages listed in [requirements.txt](requirements.txt
 ### ifcopenshell
 - https://ifcopenshell.org/
 - https://github.com/IfcOpenShell/IfcOpenShell
+
+### ezdxf
+- https://ezdxf.mozman.at/docs/
